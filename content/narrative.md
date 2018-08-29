@@ -1,6 +1,6 @@
 ---
 title: "Sustainable Agriculture, Sustainable Lives"
-cover: "farmers.jpg"
+cover: "farmers.png"
 date: "2018-08-27"
 category: "non-profit"
 tags:
@@ -8,10 +8,6 @@ tags:
     - Kenya
     - Sustainability
 ---
-
-# Sustainable Agriculture, Sustainable Lives
-
-## Enabling Women's Financial Independence in Western Kenya
 
 Kagure, a 9 year old Luo girl in Western Province, Kenya, already feels the weight of a paternalistic society on her shoulders. She wakes early to help her mother feed her siblings, the chickens, and the family cow. During the past decade, children in Kagure’s position have gained access to free elementary education, so after her demanding morning ritual, as her mother heads for the rainforest to scavenge for firewood, Kagure sets off on the dirt path to her local school.  It provides a basic education in math and english, though her labor is also employed here to work her school’s 1 acre farm.  It is hard work, but knowledge of subsistence agriculture aids her in improving the yields of beans, kale, corn, yams, and lentils that her family relies on to sustain themselves.
 
